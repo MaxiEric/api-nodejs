@@ -16,3 +16,13 @@ npm i -S mongose
 
 
 Se puede utilizar POSTMAN para hacer pruebas de los post.
+
+Tenemos opción como por ejemplo
+http://localhost:3000/api/product/
+Se pueden ver todos los productos
+
+http://localhost:3000/api/product/+"id"
+Para buscar un producto
+
+http://localhost:3000
+Tenemos el formulario para agregar uno nuevo.
